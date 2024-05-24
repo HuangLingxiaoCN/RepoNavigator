@@ -1,8 +1,28 @@
-# React + Vite
+# A platform management system that helps you manage github / gitee repositories and issues
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 项目介绍
 
-Currently, two official plugins are available:
+A platform management system that helps you manage github / gitee repositories and issues
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 软件架构
+
+软件架构说明
+
+## 安装教程
+
+1.  xxxx
+2.  xxxx
+3.  xxxx
+
+## 使用说明
+
+1.  xxxx
+2.  xxxx
+3.  xxxx
+
+## 参与贡献
+
+1.  Fork 本仓库
+2.  新建 Feat_xxx 分支
+3.  提交代码
+4.  新建 Pull Request
